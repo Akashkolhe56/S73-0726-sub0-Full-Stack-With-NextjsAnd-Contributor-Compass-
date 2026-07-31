@@ -1,0 +1,52 @@
+name: Validate Data Pipeline
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate sample data (CI has no GitHub token/rate-limit budget)
+        run: python scripts/generate_sample_data.py
+
+      - name: Run cleaning pipeline
+        run: python scripts/clean_data.py
+
+      - name: Validate processed outputs exist and are non-empty
+        run: |
+          python - <<'EOF'
+          import pandas as pd
+          import sys
+
+          for f in ["data/processed/pull_requests.csv", "data/processed/contributors.csv"]:
+              df = pd.read_csv(f)
+              if df.empty:
+                  print(f"FAILED: {f} is empty")
+                  sys.exit(1)
+              print(f"OK: {f} has {len(df)} rows")
+
+          contrib = pd.read_csv("data/processed/contributors.csv")
+          required_cols = {"repo", "user", "is_returning_contributor", "issue_count"}
+          missing = required_cols - set(contrib.columns)
+          if missing:
+              print(f"FAILED: missing columns {missing}")
+              sys.exit(1)
+          print("Schema validation passed.")
+          EOF
+
+      - name: Load SQLite database
+        run: python sql/load_db.py

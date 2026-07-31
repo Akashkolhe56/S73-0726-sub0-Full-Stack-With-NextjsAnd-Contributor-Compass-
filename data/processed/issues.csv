@@ -1,0 +1,355 @@
+id,number,user,created_at,closed_at,state,comments,repo
+5000,5000,johnsonjoshua,2024-07-16 15:11:42+00:00,,open,3,kalviumcommunity__contributor-compass
+5001,5001,johnsonjoshua,2024-12-19 15:50:11+00:00,2024-12-19 23:05:25.839191+00:00,closed,3,kalviumcommunity__contributor-compass
+5002,5002,donaldgarcia,2026-06-24 03:40:28+00:00,2026-06-24 14:16:39.475716+00:00,closed,7,kalviumcommunity__contributor-compass
+5003,5003,donaldgarcia,2026-06-17 14:23:34+00:00,,open,6,kalviumcommunity__contributor-compass
+5004,5004,robinsonwilliam,2025-02-27 17:58:18+00:00,2025-02-28 02:19:39.053855+00:00,closed,5,kalviumcommunity__contributor-compass
+5005,5005,robinsonwilliam,2025-11-22 21:27:59+00:00,2025-11-24 17:14:27.570908+00:00,closed,9,kalviumcommunity__contributor-compass
+5006,5006,lisa02,2026-01-08 19:34:11+00:00,2026-01-11 01:43:14.715375+00:00,closed,8,kalviumcommunity__contributor-compass
+5007,5007,dudleynicholas,2025-10-22 10:55:26+00:00,2025-10-26 09:23:41.183377+00:00,closed,11,kalviumcommunity__contributor-compass
+5008,5008,dudleynicholas,2024-07-13 05:24:05+00:00,2024-07-21 10:15:57.962662+00:00,closed,1,kalviumcommunity__contributor-compass
+5009,5009,kendragalloway,2025-07-27 04:36:33+00:00,2025-08-02 18:03:53.205523+00:00,closed,4,kalviumcommunity__contributor-compass
+5010,5010,kendragalloway,2025-11-26 18:17:49+00:00,2025-12-02 20:56:13.190254+00:00,closed,12,kalviumcommunity__contributor-compass
+5011,5011,xreid,2026-04-30 01:10:31+00:00,2026-04-30 16:44:33.005951+00:00,closed,1,kalviumcommunity__contributor-compass
+5012,5012,xreid,2026-06-26 19:51:41+00:00,2026-06-30 05:48:32.212980+00:00,closed,9,kalviumcommunity__contributor-compass
+5013,5013,xreid,2026-05-16 04:13:32+00:00,2026-05-16 14:05:39.856880+00:00,closed,1,kalviumcommunity__contributor-compass
+5014,5014,ogray,2026-06-12 18:17:40+00:00,2026-06-15 02:13:09.805738+00:00,closed,9,kalviumcommunity__contributor-compass
+5015,5015,perezantonio,2026-01-02 20:59:51+00:00,2026-01-03 21:08:54.702084+00:00,closed,11,kalviumcommunity__contributor-compass
+5016,5016,perezantonio,2024-10-27 00:49:12+00:00,2024-11-03 00:04:11.330175+00:00,closed,9,kalviumcommunity__contributor-compass
+5017,5017,jason76,2025-02-14 07:16:09+00:00,2025-02-14 16:56:11.900344+00:00,closed,7,kalviumcommunity__contributor-compass
+5018,5018,jason76,2025-05-14 02:41:09+00:00,,open,7,kalviumcommunity__contributor-compass
+5019,5019,jason76,2025-08-20 22:19:34+00:00,2025-08-27 13:48:16.271796+00:00,closed,3,kalviumcommunity__contributor-compass
+5020,5020,julieryan,2025-08-09 15:32:05+00:00,2025-08-10 07:23:22.332571+00:00,closed,10,kalviumcommunity__contributor-compass
+5021,5021,julieryan,2025-11-21 01:54:31+00:00,2025-11-26 15:15:33.593082+00:00,closed,1,kalviumcommunity__contributor-compass
+5022,5022,julieryan,2025-10-28 20:56:48+00:00,2025-11-03 10:59:29.262047+00:00,closed,5,kalviumcommunity__contributor-compass
+5023,5023,tasha01,2026-02-09 14:31:06+00:00,,open,6,kalviumcommunity__contributor-compass
+5024,5024,kayla51,2025-06-13 04:15:15+00:00,2025-06-19 13:50:30.813857+00:00,closed,6,kalviumcommunity__contributor-compass
+5025,5025,kayla51,2026-06-03 11:41:56+00:00,,open,5,kalviumcommunity__contributor-compass
+5026,5026,kayla51,2026-01-15 22:41:43+00:00,2026-01-23 01:40:40.699166+00:00,closed,6,kalviumcommunity__contributor-compass
+5027,5027,teresa28,2026-01-22 09:58:22+00:00,2026-01-23 23:57:18.450099+00:00,closed,4,kalviumcommunity__contributor-compass
+5028,5028,teresa28,2026-03-10 16:19:10+00:00,2026-03-14 12:20:59.678872+00:00,closed,5,kalviumcommunity__contributor-compass
+5029,5029,georgetracy,2026-06-23 03:00:25+00:00,,open,3,kalviumcommunity__contributor-compass
+5030,5030,georgetracy,2026-01-15 08:15:05+00:00,2026-01-21 18:05:49.964508+00:00,closed,2,kalviumcommunity__contributor-compass
+5031,5031,john39,2026-06-21 09:08:13+00:00,2026-06-25 00:58:28.480465+00:00,closed,5,kalviumcommunity__contributor-compass
+5032,5032,john39,2026-04-09 20:32:24+00:00,2026-04-13 17:34:06.206971+00:00,closed,2,kalviumcommunity__contributor-compass
+5033,5033,spenceamanda,2026-05-20 11:20:31+00:00,2026-05-23 08:43:44.527408+00:00,closed,9,kalviumcommunity__contributor-compass
+5034,5034,davidalvarez,2025-09-10 03:34:33+00:00,2025-09-15 00:43:25.821225+00:00,closed,7,kalviumcommunity__contributor-compass
+5035,5035,davidalvarez,2026-05-09 01:31:21+00:00,2026-05-12 15:46:20.117696+00:00,closed,11,kalviumcommunity__contributor-compass
+5036,5036,davidalvarez,2026-05-06 16:01:25+00:00,2026-05-12 13:11:20.002790+00:00,closed,4,kalviumcommunity__contributor-compass
+5037,5037,chapmanjerry,2025-11-24 15:20:54+00:00,2025-11-29 21:06:35.347507+00:00,closed,10,kalviumcommunity__contributor-compass
+5038,5038,adrianzimmerman,2025-04-30 02:41:42+00:00,2025-05-07 02:12:53.299992+00:00,closed,9,kalviumcommunity__contributor-compass
+5039,5039,perezrebecca,2026-03-12 21:52:13+00:00,2026-03-20 19:01:06.955001+00:00,closed,12,kalviumcommunity__contributor-compass
+5040,5040,perezrebecca,2026-06-05 18:32:04+00:00,,open,1,kalviumcommunity__contributor-compass
+5041,5041,perezrebecca,2025-06-04 19:29:45+00:00,2025-06-05 20:26:53.917500+00:00,closed,12,kalviumcommunity__contributor-compass
+5042,5042,esanchez,2025-07-31 05:45:07+00:00,2025-08-01 10:46:50.148024+00:00,closed,1,kalviumcommunity__contributor-compass
+5043,5043,esanchez,2025-02-01 01:04:48+00:00,2025-02-08 04:15:13.144444+00:00,closed,5,kalviumcommunity__contributor-compass
+5044,5044,esanchez,2026-06-27 03:06:27+00:00,2026-06-29 10:00:27.674234+00:00,closed,0,kalviumcommunity__contributor-compass
+5045,5045,agomez,2026-04-15 15:31:08+00:00,2026-04-21 23:52:49.609694+00:00,closed,8,kalviumcommunity__contributor-compass
+5046,5046,agomez,2025-08-29 03:55:51+00:00,2025-08-31 04:24:55.229283+00:00,closed,10,kalviumcommunity__contributor-compass
+5047,5047,brownjessica,2026-02-01 08:02:49+00:00,2026-02-03 09:43:52.475635+00:00,closed,9,kalviumcommunity__contributor-compass
+5048,5048,ltaylor,2026-05-06 18:59:32+00:00,2026-05-13 20:21:44.637842+00:00,closed,3,kalviumcommunity__contributor-compass
+5049,5049,ltaylor,2026-03-08 10:41:55+00:00,2026-03-09 09:48:57.449019+00:00,closed,6,kalviumcommunity__contributor-compass
+5050,5050,steven17,2026-04-22 01:03:18+00:00,,open,4,kalviumcommunity__contributor-compass
+5051,5051,steven17,2025-11-15 12:12:36+00:00,2025-11-17 00:59:12.242213+00:00,closed,2,kalviumcommunity__contributor-compass
+5052,5052,williamsyvette,2026-06-22 14:31:37+00:00,2026-06-30 18:33:19.830655+00:00,closed,12,kalviumcommunity__contributor-compass
+5053,5053,gabrieltucker,2025-10-25 00:49:58+00:00,2025-10-30 08:38:33.915871+00:00,closed,7,kalviumcommunity__contributor-compass
+5054,5054,gabrieltucker,2026-04-29 08:03:14+00:00,2026-05-02 18:53:47.286011+00:00,closed,2,kalviumcommunity__contributor-compass
+5055,5055,gabrieltucker,2025-08-17 16:12:14+00:00,2025-08-20 06:28:05.075729+00:00,closed,7,kalviumcommunity__contributor-compass
+5056,5056,sara74,2026-03-11 23:19:07+00:00,2026-03-18 13:08:24.989663+00:00,closed,3,kalviumcommunity__contributor-compass
+5057,5057,sara74,2026-01-03 00:35:06+00:00,2026-01-07 16:19:05.311615+00:00,closed,9,kalviumcommunity__contributor-compass
+5058,5058,uhorton,2025-01-11 04:02:17+00:00,,open,6,kalviumcommunity__contributor-compass
+5059,5059,uhorton,2026-01-14 02:11:41+00:00,,open,1,kalviumcommunity__contributor-compass
+5060,5060,tanyariley,2026-03-06 20:32:13+00:00,2026-03-11 18:26:20.949997+00:00,closed,11,kalviumcommunity__contributor-compass
+5061,5061,richarddavid,2026-06-17 23:27:57+00:00,2026-06-25 15:55:48.944992+00:00,closed,5,kalviumcommunity__contributor-compass
+5062,5062,richarddavid,2026-05-15 03:52:34+00:00,,open,2,kalviumcommunity__contributor-compass
+5063,5063,sarah35,2025-08-08 16:57:01+00:00,2025-08-11 04:15:38.915132+00:00,closed,1,kalviumcommunity__contributor-compass
+5064,5064,jonesjason,2025-11-24 11:58:59+00:00,2025-11-27 21:16:19.629070+00:00,closed,1,kalviumcommunity__contributor-compass
+5065,5065,mikemoore,2025-11-16 00:15:46+00:00,2025-11-20 17:52:56.652488+00:00,closed,9,kalviumcommunity__contributor-compass
+5066,5066,mikemoore,2025-10-11 21:27:15+00:00,2025-10-19 06:05:58.926019+00:00,closed,10,kalviumcommunity__contributor-compass
+5067,5067,mikemoore,2026-03-05 16:04:22+00:00,2026-03-08 10:04:04.834643+00:00,closed,10,kalviumcommunity__contributor-compass
+5068,5068,josephjacobs,2024-11-08 09:45:51+00:00,2024-11-11 14:20:48.009357+00:00,closed,12,kalviumcommunity__contributor-compass
+5069,5069,josephjacobs,2025-05-16 17:44:03+00:00,2025-05-22 08:25:01.969916+00:00,closed,11,kalviumcommunity__contributor-compass
+5070,5070,josephjacobs,2026-02-17 23:32:19+00:00,2026-02-18 20:02:32.273499+00:00,closed,10,kalviumcommunity__contributor-compass
+5071,5071,james48,2025-12-18 21:55:37+00:00,,open,12,kalviumcommunity__contributor-compass
+5072,5072,waltersmaria,2025-07-02 14:46:15+00:00,2025-07-09 04:04:34.106782+00:00,closed,3,kalviumcommunity__contributor-compass
+5073,5073,evan78,2026-05-18 20:07:44+00:00,2026-05-26 14:21:44.389656+00:00,closed,6,kalviumcommunity__contributor-compass
+5074,5074,hhoffman,2025-07-31 18:59:37+00:00,2025-08-07 19:09:01.857810+00:00,closed,10,kalviumcommunity__contributor-compass
+5075,5075,amydavenport,2026-02-13 21:10:36+00:00,2026-02-14 08:37:51.805550+00:00,closed,6,kalviumcommunity__contributor-compass
+5076,5076,amydavenport,2026-05-02 19:25:26+00:00,2026-05-06 15:55:56.585938+00:00,closed,1,kalviumcommunity__contributor-compass
+5077,5077,rachel05,2024-10-21 00:47:18+00:00,2024-10-27 04:21:19.282774+00:00,closed,5,kalviumcommunity__contributor-compass
+5078,5078,rachel05,2024-12-06 05:47:22+00:00,,open,8,kalviumcommunity__contributor-compass
+5079,5079,rachel05,2025-10-20 21:52:33+00:00,2025-10-22 10:32:36.529762+00:00,closed,12,kalviumcommunity__contributor-compass
+5080,5080,evelynestrada,2025-12-31 06:32:56+00:00,2026-01-07 15:56:07.386869+00:00,closed,5,kalviumcommunity__contributor-compass
+5081,5081,vjohnson,2026-02-16 14:48:58+00:00,2026-02-16 21:56:49.029368+00:00,closed,2,kalviumcommunity__contributor-compass
+5082,5082,vjohnson,2026-05-24 11:41:37+00:00,2026-06-01 02:34:30.098144+00:00,closed,1,kalviumcommunity__contributor-compass
+5083,5083,erik16,2026-04-02 20:27:16+00:00,2026-04-09 06:44:56.491507+00:00,closed,9,kalviumcommunity__contributor-compass
+5084,5084,erik16,2025-05-23 08:18:11+00:00,,open,5,kalviumcommunity__contributor-compass
+5085,5085,garrisonjeffrey,2026-02-26 06:15:03+00:00,2026-03-05 12:09:24.248025+00:00,closed,1,kalviumcommunity__contributor-compass
+5086,5086,ybailey,2026-05-10 00:00:30+00:00,2026-05-12 03:37:41.464242+00:00,closed,10,kalviumcommunity__contributor-compass
+5087,5087,ybailey,2026-05-08 03:16:55+00:00,,open,4,kalviumcommunity__contributor-compass
+5088,5088,ybailey,2026-06-27 10:26:07+00:00,,open,10,kalviumcommunity__contributor-compass
+5000,5000,moorericky,2026-06-01 16:48:17+00:00,2026-06-02 18:07:31.632701+00:00,closed,0,sample-org__data-widgets
+5001,5001,moorericky,2026-06-29 11:37:55+00:00,2026-07-04 08:32:02.183701+00:00,closed,9,sample-org__data-widgets
+5002,5002,moorericky,2026-05-21 21:10:58+00:00,2026-05-23 13:42:08.824188+00:00,closed,1,sample-org__data-widgets
+5003,5003,jasmine71,2026-02-05 17:33:00+00:00,2026-02-09 08:29:49.339762+00:00,closed,7,sample-org__data-widgets
+5004,5004,jasmine71,2025-07-26 10:01:20+00:00,,open,8,sample-org__data-widgets
+5005,5005,scott74,2026-05-29 15:34:08+00:00,2026-05-31 10:41:32.271989+00:00,closed,7,sample-org__data-widgets
+5006,5006,prestonjessica,2026-06-08 09:57:06+00:00,2026-06-15 17:53:23.363057+00:00,closed,1,sample-org__data-widgets
+5007,5007,prestonjessica,2025-03-12 23:58:47+00:00,2025-03-14 14:11:16.322792+00:00,closed,6,sample-org__data-widgets
+5008,5008,barbara27,2026-04-25 23:39:28+00:00,2026-04-28 22:06:58.234660+00:00,closed,10,sample-org__data-widgets
+5009,5009,barbara27,2026-02-18 18:31:44+00:00,2026-02-25 18:39:26.737533+00:00,closed,8,sample-org__data-widgets
+5010,5010,barbara27,2026-01-27 15:25:43+00:00,,open,10,sample-org__data-widgets
+5011,5011,lmoon,2025-05-07 19:43:26+00:00,2025-05-15 21:48:45.390773+00:00,closed,0,sample-org__data-widgets
+5012,5012,lmoon,2025-09-29 12:31:26+00:00,2025-10-04 21:54:02.582006+00:00,closed,6,sample-org__data-widgets
+5013,5013,harrisonricky,2026-03-29 16:01:42+00:00,2026-04-02 12:00:41.075600+00:00,closed,8,sample-org__data-widgets
+5014,5014,samuel71,2025-11-30 15:45:12+00:00,2025-12-07 21:47:08.252427+00:00,closed,7,sample-org__data-widgets
+5015,5015,samuel71,2025-11-20 15:20:55+00:00,2025-11-26 12:51:54.600307+00:00,closed,10,sample-org__data-widgets
+5016,5016,samuel71,2026-01-14 20:40:48+00:00,2026-01-19 10:54:35.269441+00:00,closed,9,sample-org__data-widgets
+5017,5017,tranchristopher,2025-10-27 15:53:15+00:00,,open,10,sample-org__data-widgets
+5018,5018,tranchristopher,2025-11-11 05:00:32+00:00,2025-11-13 18:38:15.154495+00:00,closed,12,sample-org__data-widgets
+5019,5019,sandraromero,2026-03-03 22:12:44+00:00,,open,1,sample-org__data-widgets
+5020,5020,sandraromero,2025-06-26 11:47:12+00:00,2025-07-02 22:57:21.439468+00:00,closed,10,sample-org__data-widgets
+5021,5021,sandraromero,2025-12-09 06:22:21+00:00,2025-12-11 01:04:38.116058+00:00,closed,11,sample-org__data-widgets
+5022,5022,michellehill,2026-03-26 00:50:47+00:00,2026-03-26 23:51:40.414245+00:00,closed,12,sample-org__data-widgets
+5023,5023,cgrimes,2024-05-29 13:28:08+00:00,2024-06-04 19:37:53.807023+00:00,closed,11,sample-org__data-widgets
+5024,5024,cgrimes,2025-07-05 11:25:42+00:00,2025-07-13 00:44:33.660029+00:00,closed,8,sample-org__data-widgets
+5025,5025,cgrimes,2024-08-26 14:49:17+00:00,,open,3,sample-org__data-widgets
+5026,5026,ugibson,2026-06-18 21:53:18+00:00,2026-06-21 22:36:06.222304+00:00,closed,10,sample-org__data-widgets
+5027,5027,ugibson,2026-05-25 09:09:13+00:00,,open,9,sample-org__data-widgets
+5028,5028,ugibson,2026-05-09 09:19:08+00:00,2026-05-12 02:14:25.816060+00:00,closed,7,sample-org__data-widgets
+5029,5029,vwilliams,2026-06-10 02:51:44+00:00,2026-06-16 04:53:32.801741+00:00,closed,0,sample-org__data-widgets
+5030,5030,vwilliams,2026-06-02 23:36:06+00:00,2026-06-03 07:46:41.247863+00:00,closed,9,sample-org__data-widgets
+5031,5031,vwilliams,2026-04-11 10:06:40+00:00,2026-04-16 08:56:17.883080+00:00,closed,0,sample-org__data-widgets
+5032,5032,harrisontanya,2025-10-13 18:34:35+00:00,2025-10-18 19:14:57.042248+00:00,closed,9,sample-org__data-widgets
+5033,5033,courtney78,2026-04-25 21:20:51+00:00,2026-05-03 04:56:50.028044+00:00,closed,6,sample-org__data-widgets
+5034,5034,michael62,2026-03-08 02:37:42+00:00,2026-03-12 22:27:35.511260+00:00,closed,4,sample-org__data-widgets
+5035,5035,georgemiller,2026-05-22 18:11:05+00:00,2026-05-31 01:02:09.358183+00:00,closed,10,sample-org__data-widgets
+5036,5036,pharvey,2026-06-06 18:27:35+00:00,2026-06-08 10:06:46.392458+00:00,closed,11,sample-org__data-widgets
+5037,5037,pharvey,2025-05-27 06:28:14+00:00,2025-05-29 08:23:51.885920+00:00,closed,4,sample-org__data-widgets
+5038,5038,pharvey,2025-06-01 19:02:59+00:00,2025-06-08 18:22:04.574191+00:00,closed,9,sample-org__data-widgets
+5039,5039,mbruce,2024-09-26 08:55:17+00:00,2024-10-02 03:38:56.175825+00:00,closed,0,sample-org__data-widgets
+5040,5040,mbruce,2025-02-03 16:09:27+00:00,2025-02-07 16:30:44.301678+00:00,closed,10,sample-org__data-widgets
+5041,5041,mbruce,2024-11-03 02:45:10+00:00,2024-11-05 23:00:53.180653+00:00,closed,5,sample-org__data-widgets
+5042,5042,gcastaneda,2026-03-05 21:34:49+00:00,,open,9,sample-org__data-widgets
+5043,5043,gcastaneda,2026-03-23 02:23:17+00:00,2026-03-24 14:56:48.282108+00:00,closed,12,sample-org__data-widgets
+5044,5044,gcastaneda,2025-11-01 05:56:54+00:00,2025-11-06 21:14:25.856457+00:00,closed,7,sample-org__data-widgets
+5045,5045,patrickhoward,2026-02-21 21:54:27+00:00,2026-02-27 09:12:14.735848+00:00,closed,11,sample-org__data-widgets
+5046,5046,patrickhoward,2026-03-09 03:47:08+00:00,2026-03-12 12:05:08.555789+00:00,closed,7,sample-org__data-widgets
+5047,5047,victoria40,2025-08-27 03:52:58+00:00,,open,7,sample-org__data-widgets
+5048,5048,victoria40,2026-02-16 03:32:21+00:00,,open,12,sample-org__data-widgets
+5049,5049,khill,2026-06-22 04:33:59+00:00,2026-06-27 10:36:34.432002+00:00,closed,2,sample-org__data-widgets
+5050,5050,jessica14,2025-07-18 00:10:56+00:00,,open,1,sample-org__data-widgets
+5051,5051,julie23,2026-05-27 14:45:25+00:00,2026-05-29 14:51:12.322943+00:00,closed,2,sample-org__data-widgets
+5052,5052,alyssa42,2024-06-09 04:39:35+00:00,2024-06-10 18:37:02.144879+00:00,closed,4,sample-org__data-widgets
+5053,5053,alyssa42,2025-10-04 01:28:56+00:00,2025-10-05 03:37:50.197249+00:00,closed,12,sample-org__data-widgets
+5054,5054,linda71,2024-12-22 13:52:28+00:00,2024-12-27 04:41:28.584523+00:00,closed,1,sample-org__data-widgets
+5055,5055,linda71,2025-06-04 13:33:50+00:00,2025-06-07 02:43:43.966103+00:00,closed,5,sample-org__data-widgets
+5056,5056,linda71,2024-12-30 06:27:13+00:00,2025-01-01 03:34:32.463926+00:00,closed,1,sample-org__data-widgets
+5057,5057,karenperez,2026-03-28 21:30:16+00:00,2026-04-01 21:36:28.939821+00:00,closed,9,sample-org__data-widgets
+5058,5058,amanda75,2025-05-24 20:31:02+00:00,2025-05-31 16:45:43.543509+00:00,closed,8,sample-org__data-widgets
+5059,5059,amanda75,2025-11-05 14:06:35+00:00,2025-11-12 01:44:29.284354+00:00,closed,8,sample-org__data-widgets
+5060,5060,amanda75,2025-11-14 20:31:02+00:00,2025-11-22 05:20:16.195140+00:00,closed,9,sample-org__data-widgets
+5061,5061,brenda51,2025-10-06 01:13:12+00:00,,open,3,sample-org__data-widgets
+5062,5062,thomasharvey,2024-11-20 20:22:17+00:00,2024-11-21 12:24:15.959365+00:00,closed,3,sample-org__data-widgets
+5063,5063,thomasharvey,2025-10-24 17:51:16+00:00,2025-11-01 04:01:42.149377+00:00,closed,1,sample-org__data-widgets
+5064,5064,rose31,2026-05-19 16:35:49+00:00,,open,4,sample-org__data-widgets
+5065,5065,torrestravis,2025-03-30 00:13:36+00:00,2025-04-03 07:27:30.316890+00:00,closed,9,sample-org__data-widgets
+5066,5066,torrestravis,2024-09-22 15:59:04+00:00,,open,7,sample-org__data-widgets
+5067,5067,torrestravis,2025-07-31 19:36:24+00:00,,open,4,sample-org__data-widgets
+5068,5068,youngamanda,2026-04-23 04:51:32+00:00,2026-04-30 18:34:28.941722+00:00,closed,9,sample-org__data-widgets
+5069,5069,youngamanda,2026-03-30 16:05:20+00:00,2026-04-05 18:47:06.657202+00:00,closed,9,sample-org__data-widgets
+5070,5070,youngamanda,2025-12-19 10:06:34+00:00,,open,0,sample-org__data-widgets
+5071,5071,vaughnjeff,2026-02-03 11:37:53+00:00,,open,6,sample-org__data-widgets
+5072,5072,vaughnjeff,2026-04-09 07:55:57+00:00,2026-04-10 23:38:58.087791+00:00,closed,5,sample-org__data-widgets
+5073,5073,vaughnjeff,2026-05-12 09:45:30+00:00,2026-05-18 20:09:18.824983+00:00,closed,2,sample-org__data-widgets
+5074,5074,xsampson,2025-09-29 15:44:47+00:00,2025-10-07 09:14:19.926674+00:00,closed,4,sample-org__data-widgets
+5075,5075,pollardmichael,2026-04-14 04:46:48+00:00,2026-04-18 19:26:32.679069+00:00,closed,9,sample-org__data-widgets
+5076,5076,pollardmichael,2024-08-28 21:49:40+00:00,2024-09-03 12:08:36.142799+00:00,closed,6,sample-org__data-widgets
+5077,5077,pollardmichael,2026-04-19 16:30:28+00:00,,open,2,sample-org__data-widgets
+5078,5078,rushmadison,2025-09-05 09:21:03+00:00,2025-09-08 14:43:46.817472+00:00,closed,11,sample-org__data-widgets
+5079,5079,rushmadison,2024-06-16 16:12:57+00:00,2024-06-20 18:10:44.181827+00:00,closed,9,sample-org__data-widgets
+5080,5080,rushmadison,2026-04-18 16:44:16+00:00,,open,3,sample-org__data-widgets
+5081,5081,batesdarlene,2026-06-18 06:01:08+00:00,2026-06-21 12:40:43.196298+00:00,closed,0,sample-org__data-widgets
+5082,5082,kristinharris,2026-01-30 03:34:16+00:00,2026-02-02 18:43:25.831743+00:00,closed,12,sample-org__data-widgets
+5083,5083,kristinharris,2025-04-11 00:57:58+00:00,2025-04-15 18:48:19.007998+00:00,closed,2,sample-org__data-widgets
+5084,5084,kristinharris,2025-08-22 21:41:16+00:00,,open,8,sample-org__data-widgets
+5000,5000,emurphy,2026-06-22 07:47:29+00:00,2026-06-27 16:18:41.921806+00:00,closed,7,sample-org__open-tracker
+5001,5001,michael86,2026-05-21 14:17:44+00:00,,open,0,sample-org__open-tracker
+5002,5002,michael86,2026-05-25 16:50:44+00:00,2026-06-01 21:56:59.992538+00:00,closed,6,sample-org__open-tracker
+5003,5003,sheila14,2025-04-14 04:04:39+00:00,2025-04-21 12:48:13.444999+00:00,closed,11,sample-org__open-tracker
+5004,5004,beverlyterrell,2026-02-23 20:32:53+00:00,2026-03-02 04:01:52.174810+00:00,closed,3,sample-org__open-tracker
+5005,5005,beverlyterrell,2026-03-13 04:32:25+00:00,2026-03-17 09:33:20.529665+00:00,closed,0,sample-org__open-tracker
+5006,5006,rodriguezryan,2024-10-04 14:13:50+00:00,2024-10-09 17:37:04.956695+00:00,closed,2,sample-org__open-tracker
+5007,5007,rodriguezryan,2025-11-01 21:13:35+00:00,2025-11-08 01:36:41.840217+00:00,closed,4,sample-org__open-tracker
+5008,5008,rodriguezryan,2025-08-05 23:43:44+00:00,2025-08-10 06:39:08.211015+00:00,closed,7,sample-org__open-tracker
+5009,5009,michaeljones,2025-06-05 13:15:01+00:00,2025-06-10 08:47:55.265801+00:00,closed,8,sample-org__open-tracker
+5010,5010,michaeljones,2025-11-17 14:02:22+00:00,2025-11-20 22:09:24.734381+00:00,closed,5,sample-org__open-tracker
+5011,5011,elizabeth56,2025-04-07 17:17:14+00:00,,open,5,sample-org__open-tracker
+5012,5012,jason99,2026-05-30 14:19:23+00:00,2026-06-05 05:51:16.132517+00:00,closed,3,sample-org__open-tracker
+5013,5013,jason99,2026-01-31 02:56:40+00:00,2026-02-05 11:24:43.746024+00:00,closed,6,sample-org__open-tracker
+5014,5014,steven73,2026-04-29 20:07:39+00:00,2026-05-01 23:14:26.961238+00:00,closed,4,sample-org__open-tracker
+5015,5015,lindsayhernandez,2026-01-12 16:48:43+00:00,2026-01-20 03:17:45.593800+00:00,closed,7,sample-org__open-tracker
+5016,5016,sanchezthomas,2025-10-08 15:55:11+00:00,2025-10-16 11:31:37.105417+00:00,closed,11,sample-org__open-tracker
+5017,5017,sanchezthomas,2026-06-02 16:58:01+00:00,,open,12,sample-org__open-tracker
+5018,5018,staffordmichelle,2026-02-22 00:00:31+00:00,2026-03-01 06:09:51.961367+00:00,closed,5,sample-org__open-tracker
+5019,5019,staffordmichelle,2026-03-27 11:11:06+00:00,2026-03-27 16:13:15.865800+00:00,closed,3,sample-org__open-tracker
+5020,5020,staffordmichelle,2026-01-14 06:44:03+00:00,2026-01-20 14:05:29.953573+00:00,closed,3,sample-org__open-tracker
+5021,5021,osbornejeffery,2025-12-17 00:23:44+00:00,2025-12-20 22:39:51.698889+00:00,closed,12,sample-org__open-tracker
+5022,5022,osbornejeffery,2026-05-28 19:34:03+00:00,2026-06-04 19:50:03.386219+00:00,closed,3,sample-org__open-tracker
+5023,5023,vmerritt,2026-05-04 20:35:05+00:00,2026-05-10 00:39:20.000581+00:00,closed,7,sample-org__open-tracker
+5024,5024,vmerritt,2026-05-21 14:24:47+00:00,2026-05-21 17:43:20.288064+00:00,closed,8,sample-org__open-tracker
+5025,5025,vmerritt,2025-11-10 00:22:04+00:00,,open,8,sample-org__open-tracker
+5026,5026,maryramirez,2026-05-09 12:09:04+00:00,2026-05-10 01:15:42.728611+00:00,closed,0,sample-org__open-tracker
+5027,5027,maryramirez,2026-02-18 14:05:12+00:00,,open,6,sample-org__open-tracker
+5028,5028,sjones,2025-11-04 01:59:08+00:00,2025-11-09 20:28:08.553756+00:00,closed,1,sample-org__open-tracker
+5029,5029,sjones,2026-03-24 05:16:45+00:00,2026-03-27 03:45:33.650307+00:00,closed,1,sample-org__open-tracker
+5030,5030,sjones,2026-02-27 11:30:34+00:00,2026-02-28 04:33:39.806152+00:00,closed,9,sample-org__open-tracker
+5031,5031,taylorjesse,2024-05-21 04:35:59+00:00,2024-05-24 22:39:26.724569+00:00,closed,12,sample-org__open-tracker
+5032,5032,wwoods,2025-04-04 08:14:43+00:00,2025-04-10 03:50:48.896797+00:00,closed,7,sample-org__open-tracker
+5033,5033,wwoods,2025-10-20 18:15:21+00:00,2025-10-23 12:46:52.710049+00:00,closed,4,sample-org__open-tracker
+5034,5034,karen68,2026-02-28 16:18:51+00:00,2026-03-02 11:49:28.376926+00:00,closed,12,sample-org__open-tracker
+5035,5035,karen68,2025-12-24 13:05:13+00:00,2025-12-25 04:46:49.301357+00:00,closed,12,sample-org__open-tracker
+5036,5036,karen68,2026-02-08 07:09:33+00:00,2026-02-09 12:42:59.878658+00:00,closed,4,sample-org__open-tracker
+5037,5037,tracynelson,2026-01-18 04:47:07+00:00,2026-01-22 16:35:24.083577+00:00,closed,11,sample-org__open-tracker
+5038,5038,tracynelson,2025-12-01 20:53:35+00:00,2025-12-08 11:27:20.869673+00:00,closed,5,sample-org__open-tracker
+5039,5039,tracynelson,2026-03-03 23:51:21+00:00,2026-03-11 14:54:26.210095+00:00,closed,1,sample-org__open-tracker
+5040,5040,vjohnson,2025-08-09 13:57:14+00:00,2025-08-15 19:49:50.838097+00:00,closed,8,sample-org__open-tracker
+5041,5041,dramsey,2026-01-18 02:56:41+00:00,2026-01-22 03:13:29.652246+00:00,closed,7,sample-org__open-tracker
+5042,5042,tinaferguson,2026-01-15 07:47:16+00:00,2026-01-16 18:19:47.597384+00:00,closed,11,sample-org__open-tracker
+5043,5043,tinaferguson,2026-03-08 13:53:14+00:00,2026-03-13 05:09:55.654587+00:00,closed,5,sample-org__open-tracker
+5044,5044,millerroy,2026-05-28 11:33:55+00:00,2026-06-04 06:41:07.627637+00:00,closed,11,sample-org__open-tracker
+5045,5045,millerroy,2026-05-12 21:46:11+00:00,2026-05-17 20:37:23.010556+00:00,closed,10,sample-org__open-tracker
+5046,5046,matthew64,2026-02-24 11:26:26+00:00,2026-03-01 05:26:21.648733+00:00,closed,12,sample-org__open-tracker
+5047,5047,matthew64,2026-06-20 12:58:25+00:00,2026-06-24 20:06:47.502697+00:00,closed,9,sample-org__open-tracker
+5048,5048,ismith,2026-02-02 06:35:22+00:00,2026-02-09 11:18:17.893055+00:00,closed,1,sample-org__open-tracker
+5049,5049,cookemichael,2026-02-01 10:33:29+00:00,2026-02-06 05:25:57.992977+00:00,closed,8,sample-org__open-tracker
+5050,5050,harringtondenise,2025-04-27 16:46:40+00:00,2025-05-04 22:27:11.522461+00:00,closed,2,sample-org__open-tracker
+5051,5051,harringtondenise,2025-06-23 17:08:44+00:00,2025-06-29 16:00:06.248253+00:00,closed,3,sample-org__open-tracker
+5052,5052,herringjames,2026-05-06 02:47:01+00:00,2026-05-12 13:01:21.682583+00:00,closed,6,sample-org__open-tracker
+5053,5053,stevenscott,2026-03-03 12:11:32+00:00,2026-03-11 02:15:17.462362+00:00,closed,10,sample-org__open-tracker
+5054,5054,stevenscott,2026-04-11 04:02:25+00:00,,open,4,sample-org__open-tracker
+5055,5055,reedross,2026-05-11 04:52:22+00:00,2026-05-16 21:43:18.492061+00:00,closed,1,sample-org__open-tracker
+5056,5056,reedross,2025-05-24 07:19:20+00:00,2025-05-30 09:51:14.331433+00:00,closed,3,sample-org__open-tracker
+5057,5057,reedross,2024-11-09 08:47:20+00:00,2024-11-17 01:51:54.663300+00:00,closed,1,sample-org__open-tracker
+5058,5058,casey50,2026-01-27 13:50:01+00:00,2026-01-29 00:16:20.899331+00:00,closed,5,sample-org__open-tracker
+5059,5059,casey50,2026-06-26 09:41:25+00:00,2026-07-03 06:32:47.898874+00:00,closed,4,sample-org__open-tracker
+5060,5060,casey50,2026-02-08 03:08:05+00:00,2026-02-14 09:35:25.606582+00:00,closed,4,sample-org__open-tracker
+5061,5061,gshort,2026-04-30 21:06:02+00:00,2026-05-03 23:54:09.848056+00:00,closed,4,sample-org__open-tracker
+5062,5062,gshort,2026-02-23 01:22:11+00:00,,open,9,sample-org__open-tracker
+5063,5063,oyu,2024-11-14 04:01:18+00:00,2024-11-21 07:48:13.448955+00:00,closed,8,sample-org__open-tracker
+5064,5064,bzimmerman,2026-05-23 10:19:19+00:00,2026-05-27 15:43:33.783856+00:00,closed,0,sample-org__open-tracker
+5065,5065,christina87,2025-11-02 01:44:45+00:00,2025-11-07 00:54:02.298457+00:00,closed,7,sample-org__open-tracker
+5066,5066,christina87,2025-09-26 10:35:25+00:00,2025-10-01 00:48:32.428132+00:00,closed,12,sample-org__open-tracker
+5067,5067,frogers,2025-09-26 11:42:42+00:00,2025-09-29 03:53:24.927552+00:00,closed,1,sample-org__open-tracker
+5068,5068,hunter35,2026-04-21 07:24:40+00:00,,open,10,sample-org__open-tracker
+5069,5069,blackjames,2026-05-14 19:54:42+00:00,2026-05-15 21:57:33.880523+00:00,closed,0,sample-org__open-tracker
+5070,5070,hannahbrewer,2024-07-28 05:07:37+00:00,,open,9,sample-org__open-tracker
+5071,5071,hannahbrewer,2026-03-14 10:27:24+00:00,2026-03-17 18:39:59.064965+00:00,closed,0,sample-org__open-tracker
+5072,5072,bwest,2026-04-14 03:49:53+00:00,2026-04-16 16:15:43.960186+00:00,closed,6,sample-org__open-tracker
+5073,5073,bwest,2026-03-19 09:58:40+00:00,2026-03-20 05:20:47.921595+00:00,closed,6,sample-org__open-tracker
+5074,5074,bwest,2025-10-09 20:19:11+00:00,2025-10-15 05:33:53.720275+00:00,closed,12,sample-org__open-tracker
+5075,5075,kevinperkins,2026-02-28 18:11:51+00:00,2026-03-08 05:33:32.136335+00:00,closed,12,sample-org__open-tracker
+5076,5076,kevinperkins,2025-10-28 23:09:07+00:00,,open,7,sample-org__open-tracker
+5077,5077,tina34,2025-03-13 22:41:45+00:00,2025-03-16 15:48:06.411992+00:00,closed,1,sample-org__open-tracker
+5078,5078,michaelturner,2026-05-15 04:07:23+00:00,2026-05-18 19:31:30.272579+00:00,closed,10,sample-org__open-tracker
+5079,5079,michaelturner,2025-01-06 13:55:57+00:00,2025-01-10 05:54:15.034352+00:00,closed,0,sample-org__open-tracker
+5080,5080,michaelturner,2024-09-29 13:33:22+00:00,2024-10-07 16:29:13.194258+00:00,closed,6,sample-org__open-tracker
+5081,5081,joshuamccann,2026-05-18 17:44:00+00:00,2026-05-19 18:36:14.760843+00:00,closed,12,sample-org__open-tracker
+5082,5082,joshuamccann,2026-06-18 08:58:28+00:00,2026-06-25 20:09:36.670171+00:00,closed,4,sample-org__open-tracker
+5083,5083,heidi27,2026-02-08 07:23:56+00:00,2026-02-16 09:35:54.906897+00:00,closed,9,sample-org__open-tracker
+5084,5084,heidi27,2024-11-14 06:58:26+00:00,2024-11-21 07:27:06.220231+00:00,closed,8,sample-org__open-tracker
+5085,5085,salasaudrey,2025-12-18 11:05:00+00:00,2025-12-19 22:10:55.060489+00:00,closed,3,sample-org__open-tracker
+5086,5086,salasaudrey,2025-12-26 04:04:19+00:00,,open,6,sample-org__open-tracker
+5087,5087,kvasquez,2025-12-29 08:35:27+00:00,2025-12-29 14:35:49.002989+00:00,closed,12,sample-org__open-tracker
+5088,5088,kvasquez,2026-01-11 17:52:48+00:00,2026-01-18 18:45:49.034106+00:00,closed,11,sample-org__open-tracker
+5089,5089,hernandezlisa,2025-09-14 11:26:16+00:00,2025-09-16 02:38:56.560468+00:00,closed,3,sample-org__open-tracker
+5090,5090,hernandezlisa,2026-05-12 01:25:51+00:00,2026-05-18 06:08:16.452670+00:00,closed,12,sample-org__open-tracker
+5091,5091,christopher31,2026-06-19 10:37:40+00:00,2026-06-27 03:23:46.839536+00:00,closed,10,sample-org__open-tracker
+5092,5092,christopher31,2026-03-19 07:00:11+00:00,2026-03-23 09:46:58.187607+00:00,closed,7,sample-org__open-tracker
+5093,5093,colleenbaker,2025-11-02 04:49:40+00:00,,open,8,sample-org__open-tracker
+5094,5094,colleenbaker,2025-09-17 18:30:47+00:00,2025-09-24 11:59:17.377573+00:00,closed,12,sample-org__open-tracker
+5095,5095,colleenbaker,2026-06-24 04:23:21+00:00,2026-06-26 21:40:01.714180+00:00,closed,2,sample-org__open-tracker
+5000,5000,ramireztracey,2025-03-02 05:14:42+00:00,2025-03-10 03:23:03.164687+00:00,closed,3,sample-org__ui-kit
+5001,5001,ramireztracey,2025-07-26 02:27:03+00:00,2025-07-26 17:32:44.971915+00:00,closed,7,sample-org__ui-kit
+5002,5002,alfred40,2026-04-07 07:23:58+00:00,2026-04-08 20:49:02.651071+00:00,closed,9,sample-org__ui-kit
+5003,5003,alfred40,2026-02-19 02:40:04+00:00,2026-02-19 22:31:24.062567+00:00,closed,5,sample-org__ui-kit
+5004,5004,alvarezkimberly,2024-12-05 16:51:23+00:00,2024-12-13 17:01:20.269319+00:00,closed,0,sample-org__ui-kit
+5005,5005,hayesjeffrey,2026-06-24 10:05:04+00:00,2026-06-27 21:17:39.893479+00:00,closed,1,sample-org__ui-kit
+5006,5006,hayesjeffrey,2026-05-10 04:09:00+00:00,2026-05-12 06:36:11.548601+00:00,closed,8,sample-org__ui-kit
+5007,5007,hayesjeffrey,2025-09-01 05:03:43+00:00,2025-09-05 21:27:23.676486+00:00,closed,3,sample-org__ui-kit
+5008,5008,acostaregina,2025-06-23 14:31:56+00:00,2025-06-24 09:53:50.473490+00:00,closed,1,sample-org__ui-kit
+5009,5009,bboone,2026-01-21 00:10:41+00:00,,open,9,sample-org__ui-kit
+5010,5010,shawn96,2025-12-10 07:02:14+00:00,2025-12-12 14:47:37.358552+00:00,closed,1,sample-org__ui-kit
+5011,5011,shawn96,2026-05-01 02:06:35+00:00,2026-05-04 05:40:59.773605+00:00,closed,4,sample-org__ui-kit
+5012,5012,russellbeasley,2024-12-16 15:38:56+00:00,2024-12-17 13:06:09.715508+00:00,closed,8,sample-org__ui-kit
+5013,5013,russellbeasley,2026-02-03 23:21:37+00:00,2026-02-05 17:59:14.372037+00:00,closed,0,sample-org__ui-kit
+5014,5014,ronald45,2026-04-08 01:07:11+00:00,2026-04-10 09:06:18.918517+00:00,closed,2,sample-org__ui-kit
+5015,5015,ronald45,2025-11-28 23:05:23+00:00,,open,9,sample-org__ui-kit
+5016,5016,uparrish,2026-05-12 18:08:20+00:00,2026-05-15 04:01:33.052567+00:00,closed,5,sample-org__ui-kit
+5017,5017,uparrish,2025-08-26 10:46:01+00:00,2025-08-29 21:05:33.968140+00:00,closed,11,sample-org__ui-kit
+5018,5018,lynchdiane,2025-09-07 09:42:45+00:00,2025-09-14 20:38:30.584005+00:00,closed,11,sample-org__ui-kit
+5019,5019,lynchdiane,2026-01-31 20:59:15+00:00,2026-02-06 02:23:26.517684+00:00,closed,7,sample-org__ui-kit
+5020,5020,lynchdiane,2025-11-19 01:47:14+00:00,2025-11-25 22:09:40.911681+00:00,closed,6,sample-org__ui-kit
+5021,5021,mitchellgriffith,2026-02-26 12:37:20+00:00,2026-02-28 18:37:19.207964+00:00,closed,8,sample-org__ui-kit
+5022,5022,mitchellgriffith,2025-07-31 03:10:29+00:00,,open,12,sample-org__ui-kit
+5023,5023,mitchellgriffith,2025-08-11 01:45:44+00:00,2025-08-13 18:16:06.851681+00:00,closed,8,sample-org__ui-kit
+5024,5024,ctucker,2026-03-23 19:22:12+00:00,2026-03-25 16:18:04.658599+00:00,closed,9,sample-org__ui-kit
+5025,5025,ctucker,2026-03-09 10:04:59+00:00,,open,1,sample-org__ui-kit
+5026,5026,ctucker,2025-01-04 21:42:53+00:00,2025-01-06 01:26:10.890085+00:00,closed,10,sample-org__ui-kit
+5027,5027,reeddaniel,2025-07-03 00:57:14+00:00,2025-07-09 19:53:18.455764+00:00,closed,2,sample-org__ui-kit
+5028,5028,reeddaniel,2026-04-24 14:17:23+00:00,,open,3,sample-org__ui-kit
+5029,5029,vincentwhitaker,2025-12-25 21:30:28+00:00,2025-12-27 22:43:40.201614+00:00,closed,6,sample-org__ui-kit
+5030,5030,charles06,2024-06-04 03:26:03+00:00,2024-06-08 06:14:07.151659+00:00,closed,0,sample-org__ui-kit
+5031,5031,stevenschristian,2026-03-25 18:37:49+00:00,2026-04-01 18:08:15.631720+00:00,closed,11,sample-org__ui-kit
+5032,5032,barbara96,2025-10-04 04:51:52+00:00,2025-10-07 01:17:39.057082+00:00,closed,1,sample-org__ui-kit
+5033,5033,zroberts,2025-07-18 19:58:56+00:00,2025-07-24 17:55:01.161900+00:00,closed,9,sample-org__ui-kit
+5034,5034,burchgeorge,2025-05-30 01:57:17+00:00,2025-06-06 06:46:31.699636+00:00,closed,8,sample-org__ui-kit
+5035,5035,burchgeorge,2026-04-14 23:31:26+00:00,2026-04-21 10:02:58.138601+00:00,closed,10,sample-org__ui-kit
+5036,5036,burchgeorge,2025-08-25 09:42:21+00:00,2025-08-27 02:03:43.898220+00:00,closed,12,sample-org__ui-kit
+5037,5037,jeffrey21,2025-01-22 21:50:48+00:00,2025-01-26 18:38:43.057719+00:00,closed,2,sample-org__ui-kit
+5038,5038,stephanieburton,2024-06-16 00:04:35+00:00,2024-06-19 21:54:03.585972+00:00,closed,2,sample-org__ui-kit
+5039,5039,stephanieburton,2026-01-28 18:48:23+00:00,,open,5,sample-org__ui-kit
+5040,5040,kmaldonado,2024-12-19 12:55:52+00:00,2024-12-21 01:38:02.604991+00:00,closed,8,sample-org__ui-kit
+5041,5041,kmaldonado,2026-05-19 06:46:32+00:00,,open,11,sample-org__ui-kit
+5042,5042,kmaldonado,2025-04-25 19:05:51+00:00,,open,5,sample-org__ui-kit
+5043,5043,cjones,2026-04-18 15:19:39+00:00,2026-04-22 19:36:02.122296+00:00,closed,3,sample-org__ui-kit
+5044,5044,cjones,2026-05-28 07:34:53+00:00,2026-05-28 14:04:26.623426+00:00,closed,6,sample-org__ui-kit
+5045,5045,laura90,2026-06-10 12:57:41+00:00,2026-06-14 00:28:34.864834+00:00,closed,5,sample-org__ui-kit
+5046,5046,xjohnson,2025-02-13 03:03:15+00:00,2025-02-13 11:55:21.382393+00:00,closed,5,sample-org__ui-kit
+5047,5047,chase19,2025-11-22 06:20:24+00:00,2025-11-28 16:30:23.748609+00:00,closed,7,sample-org__ui-kit
+5048,5048,colelisa,2025-08-24 19:23:42+00:00,2025-08-26 17:22:46.141299+00:00,closed,12,sample-org__ui-kit
+5049,5049,benjaminzimmerman,2026-02-12 16:34:27+00:00,,open,9,sample-org__ui-kit
+5050,5050,benjaminzimmerman,2026-02-28 08:42:58+00:00,,open,6,sample-org__ui-kit
+5051,5051,benjaminzimmerman,2026-06-10 12:22:01+00:00,2026-06-14 00:26:26.589135+00:00,closed,8,sample-org__ui-kit
+5052,5052,michaelhardin,2025-11-23 14:01:24+00:00,2025-11-27 17:25:00.699552+00:00,closed,11,sample-org__ui-kit
+5053,5053,michaelhardin,2025-10-21 05:35:12+00:00,,open,12,sample-org__ui-kit
+5054,5054,michaelhardin,2025-11-15 10:48:40+00:00,2025-11-23 12:59:41.732754+00:00,closed,9,sample-org__ui-kit
+5055,5055,vortiz,2026-06-22 01:52:55+00:00,2026-06-25 02:38:39.359615+00:00,closed,0,sample-org__ui-kit
+5056,5056,vortiz,2025-10-29 20:50:37+00:00,2025-11-04 04:49:13.957859+00:00,closed,5,sample-org__ui-kit
+5057,5057,mccormickdeborah,2025-09-13 21:54:57+00:00,2025-09-14 02:28:10.454784+00:00,closed,8,sample-org__ui-kit
+5058,5058,mccormickdeborah,2025-05-27 20:14:15+00:00,2025-05-31 22:14:51.024845+00:00,closed,5,sample-org__ui-kit
+5059,5059,mccormickdeborah,2024-11-24 22:23:24+00:00,,open,2,sample-org__ui-kit
+5060,5060,umitchell,2026-06-25 05:27:29+00:00,,open,5,sample-org__ui-kit
+5061,5061,mathewaguilar,2025-08-17 14:04:15+00:00,2025-08-20 04:56:29.909109+00:00,closed,3,sample-org__ui-kit
+5062,5062,mathewaguilar,2025-08-08 03:44:40+00:00,2025-08-11 17:51:21.055768+00:00,closed,12,sample-org__ui-kit
+5063,5063,mathewaguilar,2025-07-24 18:57:11+00:00,,open,12,sample-org__ui-kit
+5064,5064,bromero,2026-05-04 03:43:07+00:00,2026-05-07 06:28:19.226193+00:00,closed,0,sample-org__ui-kit
+5065,5065,kyle35,2026-04-22 06:06:11+00:00,,open,6,sample-org__ui-kit
+5066,5066,kyle35,2026-06-23 13:39:32+00:00,2026-06-29 23:05:33.566298+00:00,closed,12,sample-org__ui-kit
+5067,5067,kyle35,2026-05-26 17:55:01+00:00,2026-06-02 01:39:53.738303+00:00,closed,12,sample-org__ui-kit
+5068,5068,stanleynancy,2026-05-25 10:39:04+00:00,,open,10,sample-org__ui-kit
+5069,5069,stanleynancy,2026-04-08 07:32:18+00:00,2026-04-11 22:18:42.030023+00:00,closed,5,sample-org__ui-kit
+5070,5070,stanleynancy,2026-04-22 00:53:55+00:00,2026-04-27 13:49:26.876150+00:00,closed,3,sample-org__ui-kit
+5071,5071,carlamoore,2026-04-01 04:15:32+00:00,,open,5,sample-org__ui-kit
+5072,5072,carlamoore,2025-10-19 20:53:03+00:00,2025-10-22 14:43:24.951646+00:00,closed,1,sample-org__ui-kit
+5073,5073,mariewise,2026-04-09 04:35:22+00:00,2026-04-10 22:32:15.549201+00:00,closed,10,sample-org__ui-kit
+5074,5074,mariewise,2026-02-12 06:21:03+00:00,2026-02-16 18:26:45.491923+00:00,closed,4,sample-org__ui-kit
+5075,5075,mmckee,2026-04-13 19:02:46+00:00,2026-04-17 06:16:39.515095+00:00,closed,1,sample-org__ui-kit
+5076,5076,mmckee,2026-06-17 13:58:35+00:00,2026-06-21 01:38:21.077069+00:00,closed,4,sample-org__ui-kit
+5077,5077,mmckee,2026-06-19 22:26:14+00:00,,open,10,sample-org__ui-kit
+5078,5078,erika97,2025-04-17 18:48:33+00:00,,open,12,sample-org__ui-kit
+5079,5079,erika97,2025-08-05 13:36:11+00:00,2025-08-07 02:26:53.266167+00:00,closed,0,sample-org__ui-kit
+5080,5080,xhammond,2026-02-21 00:33:32+00:00,2026-02-25 19:36:41.824852+00:00,closed,8,sample-org__ui-kit
+5081,5081,xhammond,2026-02-17 03:44:11+00:00,2026-02-24 01:52:29.072130+00:00,closed,12,sample-org__ui-kit
+5082,5082,xhammond,2026-05-06 17:23:26+00:00,2026-05-14 02:32:03.833867+00:00,closed,3,sample-org__ui-kit
+5083,5083,moniquewilliams,2025-12-14 04:26:31+00:00,2025-12-21 12:34:35.254031+00:00,closed,12,sample-org__ui-kit
